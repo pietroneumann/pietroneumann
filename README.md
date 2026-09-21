@@ -1,71 +1,76 @@
-<h1 align="center">Olá! 👋 Eu sou o Pietro Klaoss Neumann</h1>
+<h1 align="center">Olá! Eu sou o Pietro Klaoss Neumann</h1>
 
 <p align="center">
-🎓 Estudante de Engenharia de Software <br>
-💻 Apaixonado por desenvolvimento Front-end <br>
-🚀 Sempre aprendendo novas tecnologias
+Estudante de Engenharia de Software <br>
+Interessado em desenvolvimento Web e Software <br>
+Construindo projetos e evoluindo constantemente como desenvolvedor
 </p>
 
 ---
 
-# 👨‍💻 Sobre mim
+# Sobre mim
 
 Sou estudante de Engenharia de Software e estou construindo meu portfólio através de projetos práticos.
 
-Atualmente estudo desenvolvimento Web utilizando HTML, CSS e Git/GitHub, sempre buscando escrever códigos organizados e aprender boas práticas de desenvolvimento.
+Já concluí meus estudos introdutórios de HTML, CSS e JavaScript e atualmente busco aplicar esses conhecimentos no desenvolvimento de projetos reais.
+
+Também utilizo Git e GitHub para versionamento de código e organização dos meus projetos.
 
 ---
 
-# 📚 Atualmente estudando
+# Atualmente estudando
 
-* HTML5
-* CSS3
-* Git
-* GitHub
-* JavaScript (em breve)
+* JavaScript na prática
+* Git e GitHub
+* Desenvolvimento Web
+* Lógica de programação
 
 ---
 
-# 🚀 Projetos em destaque
+# Projetos em destaque
 
-🎬 **ThrillerCine**
+### ThrillerCine
 
-Website inspirado em plataformas de streaming desenvolvido com HTML e CSS.
+Website inspirado em plataformas de streaming, desenvolvido com HTML e CSS.
 
-🦟 **Pesquisa sobre a Dengue**
+### Pesquisa sobre a Dengue
 
-Site informativo desenvolvido para um projeto escolar.
+Site informativo desenvolvido para um projeto escolar utilizando HTML e CSS.
 
-💼 **EMP Website**
+### EMP Website
 
 Projeto acadêmico desenvolvido para a disciplina de Empreendedorismo.
 
-📖 **Curso HTML e CSS**
+### Curso HTML e CSS
 
-Repositório contendo exercícios e projetos desenvolvidos durante o Curso em Vídeo.
+Repositório contendo exercícios e projetos desenvolvidos durante meus estudos de HTML5 e CSS3 no Curso em Vídeo.
+
+### Curso JavaScript
+
+Repositório contendo anotações, exercícios e desafios desenvolvidos durante meus estudos de JavaScript no Curso em Vídeo.
 
 ---
 
-# 🛠 Tecnologias
+# Tecnologias
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=html,css,git,github,vscode"/>
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode"/>
 </p>
 
 ---
 
-# 🎯 Objetivos
+# Próximos objetivos
 
-* Aprender JavaScript
+* Consolidar JavaScript através de projetos práticos
+* Aprender manipulação do DOM em projetos maiores
+* Desenvolver aplicações Web mais completas
 * Aprender React
-* Criar projetos cada vez mais completos
-* Conseguir uma oportunidade como Desenvolvedor
+* Aprender desenvolvimento Back-end
+* Conseguir minha primeira oportunidade na área de tecnologia
 
 ---
 
-# 📈 Estatísticas
+# Estatísticas
 
 <p align="center">
 
@@ -77,8 +82,6 @@ Repositório contendo exercícios e projetos desenvolvidos durante o Curso em V�
 
 ---
 
-# 📫 Contato
+# Contato
 
-GitHub:
-
-https://github.com/pietroneumann
+GitHub: https://github.com/pietroneumann
