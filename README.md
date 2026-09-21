@@ -70,18 +70,6 @@ Repositório contendo anotações, exercícios e desafios desenvolvidos durante 
 
 ---
 
-# Estatísticas
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pietroneumann&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pietroneumann&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 # Contato
 
 GitHub: https://github.com/pietroneumann
