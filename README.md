@@ -1,75 +1,103 @@
-<h1 align="center">Olá! Eu sou o Pietro Klaoss Neumann</h1>
+# Olá! Eu sou o Pietro Klaoss Neumann
 
-<p align="center">
-Estudante de Engenharia de Software <br>
-Interessado em desenvolvimento Web e Software <br>
-Construindo projetos e evoluindo constantemente como desenvolvedor
-</p>
+Estudante de Engenharia de Software com foco em desenvolvimento Web e programação.
+
+Atualmente estou consolidando meus conhecimentos em JavaScript por meio de projetos práticos, buscando evoluir de exercícios de curso para aplicações cada vez mais completas.
 
 ---
 
-# Sobre mim
+## Sobre mim
 
-Sou estudante de Engenharia de Software e estou construindo meu portfólio através de projetos práticos.
+Sou estudante de Engenharia de Software e estou construindo meu portfólio através de projetos reais.
 
-Já concluí meus estudos introdutórios de HTML, CSS e JavaScript e atualmente busco aplicar esses conhecimentos no desenvolvimento de projetos reais.
+Já estudei fundamentos de:
 
-Também utilizo Git e GitHub para versionamento de código e organização dos meus projetos.
+- HTML
+- CSS
+- JavaScript
+- Lógica de programação
+- Git e GitHub
 
----
-
-# Atualmente estudando
-
-* JavaScript na prática
-* Git e GitHub
-* Desenvolvimento Web
-* Lógica de programação
+Hoje estou focado principalmente em aplicar esses conhecimentos em projetos próprios.
 
 ---
 
-# Projetos em destaque
+## Projeto em destaque
 
-### ThrillerCine
+### Evelin Boutique Delivery
 
-Website inspirado em plataformas de streaming, desenvolvido com HTML e CSS.
+Catálogo online desenvolvido para uma loja de moda feminina.
+
+Principais funcionalidades:
+
+- Renderização dinâmica de produtos com JavaScript
+- Busca por nome
+- Filtro por categoria
+- Combinação de busca + categoria
+- Contador de resultados
+- Integração com WhatsApp
+- Layout responsivo
+- Manipulação do DOM
+- Eventos e criação dinâmica de elementos
+
+**Tecnologias:**
+HTML, CSS e JavaScript
+
+---
+
+## Outros projetos
 
 ### Pesquisa sobre a Dengue
 
 Site informativo desenvolvido para um projeto escolar utilizando HTML e CSS.
 
+### ThrillerCine
+
+Website inspirado em plataformas de streaming, desenvolvido com HTML e CSS.
+
 ### EMP Website
 
 Projeto acadêmico desenvolvido para a disciplina de Empreendedorismo.
 
-### Curso HTML e CSS
+---
 
-Repositório contendo exercícios e projetos desenvolvidos durante meus estudos de HTML5 e CSS3 no Curso em Vídeo.
+## Estudos
 
-### Curso JavaScript
+Também mantenho repositórios com exercícios, anotações e desafios dos meus estudos:
 
-Repositório contendo anotações, exercícios e desafios desenvolvidos durante meus estudos de JavaScript no Curso em Vídeo.
+- Curso HTML e CSS
+- Curso JavaScript
 
 ---
 
-# Tecnologias
+## Tecnologias
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode"/>
-</p>
+[image](https://camo.githubusercontent.com/37b845fc679c45ad0844d9f58cc89db499887b843b7b5666272224ae557ae396/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c2c6373732c6a732c6769742c6769746875622c7673636f6465)
 
 ---
 
-# Próximos objetivos
+## Atualmente estudando
 
-* Consolidar JavaScript através de projetos práticos
-* Aprender manipulação do DOM em projetos maiores
-* Desenvolver aplicações Web mais completas
-* Aprender React
-* Aprender desenvolvimento Back-end
-* Conseguir minha primeira oportunidade na área de tecnologia
+- JavaScript na prática
+- DOM
+- Git e GitHub
+- Desenvolvimento Web
+- Lógica de programação
 
 ---
 
-# Contato
+## Próximos objetivos
 
-GitHub: https://github.com/pietroneumann
+- Desenvolver projetos Web cada vez mais completos
+- Aprender SQL
+- Evoluir em JavaScript
+- Estudar Back-end
+- Aprender React no momento certo
+- Construir projetos voltados para dados e programação
+- Conseguir minha primeira oportunidade na área de tecnologia
+
+---
+
+## Contato
+
+GitHub: [https://github.com/pietroneumann](https://github.com/pietroneumann)
