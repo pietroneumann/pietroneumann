@@ -2,7 +2,7 @@
 
 Sou estudante de **Desenvolvimento de Sistemas**, com foco em desenvolvimento de software e desenvolvimento Web.
 
-Tenho conhecimentos em **HTML, CSS, JavaScript, Git e GitHub** e atualmente estou consolidando minha base através de projetos práticos, buscando desenvolver cada vez mais autonomia na resolução de problemas.
+Tenho conhecimentos em **HTML, CSS, JavaScript, Git, GitHub e Excel** e atualmente estou consolidando minha base através de projetos práticos, buscando desenvolver cada vez mais autonomia na resolução de problemas.
 
 ---
 
@@ -12,8 +12,18 @@ Tenho conhecimentos em **HTML, CSS, JavaScript, Git e GitHub** e atualmente esto
 - Ensino Médio — conclusão prevista para 2027
 - Foco atual em JavaScript e desenvolvimento Web
 - Desenvolvimento de projetos para fortalecimento do portfólio
+- Conhecimentos em Excel para organização e análise de dados
 - Bootcamp DIO + Itaú de Java e Inteligência Artificial — em andamento
-- Buscando minha primeira oportunidade na área de tecnologia
+- Buscando minha primeira oportunidade profissional
+
+---
+
+## Formação complementar
+
+- Excel na Prática — Fundação Bradesco | 16h — concluído
+- HTML5 e CSS3 — Curso em Vídeo | Módulo 1 | 40h — concluído
+- JavaScript — Curso em Vídeo | 40h — concluído
+- Bootcamp DIO + Itaú — Java e Inteligência Artificial — em andamento
 
 ---
 
@@ -53,6 +63,16 @@ Principais funcionalidades:
 
 ---
 
+## Ferramentas e conhecimentos
+
+- Git e GitHub
+- Visual Studio Code
+- Excel
+- Lógica de programação
+- Desenvolvimento Web
+
+---
+
 ## Atualmente estudando
 
 - JavaScript na prática
@@ -70,7 +90,8 @@ Principais funcionalidades:
 - Desenvolver projetos com cada vez mais autonomia
 - Aprender APIs e desenvolvimento Back-end
 - Estudar banco de dados e SQL
-- Conseguir minha primeira oportunidade profissional em tecnologia
+- Aprofundar meus conhecimentos em análise de dados
+- Conseguir minha primeira oportunidade profissional
 
 ---
 
